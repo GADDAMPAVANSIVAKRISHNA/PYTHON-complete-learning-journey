@@ -7,7 +7,7 @@ All programs were written, tested, and practiced using **VS Code**, and later re
 ---
 
 ## 👨‍🎓 About Me
-- **Name:** Pavan  
+- **Name:** PAVAN SIVA KRISHNA GADDAM 
 - **Degree:** B.Tech – CSE (AIML)  
 - **Focus:** Python, Data Analysis, AI & Backend Development  
 
